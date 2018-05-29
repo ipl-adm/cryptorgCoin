@@ -1,11 +1,11 @@
 ---
-name: "dash-osx-0.12"
+name: "dash-osx-1.0.0.1"
 enable_cache: true
 suites:
 - "trusty"
 architectures:
 - "amd64"
-packages: 
+packages:
 - "curl"
 - "g++"
 - "git-core"
